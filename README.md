@@ -4,7 +4,7 @@
 
 # debian7.sh
 ```
-wget https://overses.net/debian7//debian7.sh && chmod +x ./debian7.sh && ./debian7.sh
+wget https://raw.githubusercontent.com/elhad/cstup/master/debian7.sh && chmod +x ./debian7.sh && ./debian7.sh
 ```
 # OPENVPN
 ```
