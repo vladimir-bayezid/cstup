@@ -38,9 +38,9 @@ fi
 vps="FNS";
 
 if [[ $vps = "FNS" ]]; then
-	source="hhttps://overses.net/debian7"
+	source="https://raw.githubusercontent.com/elhad/cstup/master/"
 else
-	source="hhttps://overses.net/debian7"
+	source="https://raw.githubusercontent.com/elhad/cstup/master/"
 fi
 
 geteasyrsa () {
@@ -105,7 +105,7 @@ if [[ -e /etc/openvpn/server.conf ]]; then
 else
 	clear
 	echo "----------------- OpenVPN Installer for Debian, Ubuntu, CentOS -----------------"
-	echo "                               www.sshinjector.net                              "
+	echo "                               www.overses.net                              "
 	echo ""
 	echo ""
 	# OpenVPN setup and first user creation
