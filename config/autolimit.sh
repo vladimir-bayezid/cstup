@@ -1,4 +1,4 @@
-            #!/bin/bash
+#!/bin/bash
             red='\e[1;31m'
             green='\e[0;32m'
             blue='\e[1;34m'
