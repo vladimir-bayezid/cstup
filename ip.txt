@@ -1,0 +1,38 @@
+SGDO
+128.199.116.141	            (SGDO - vozov1)
+128.199.221.200             (SGDO - vozov2)
+174.138.22.35				(SGDO - vozov3)
+188.166.242.192				(SGDO - vozov4)
+
+SGGS
+49.213.16.247               (SGGS - Rizky Aditya)
+
+INDONESIA
+103.227.255.160             (INDONESIA - Rizky Aditya)
+
+sg1.hostip.me 128.199.154.140
+sg2.hostip.me 128.199.179.90
+sg3.hostip.me 139.59.102.248
+sg4.hostip.me 128.199.134.196
+sg5.hostip.me 128.199.236.174
+sg6.hostip.me 188.166.255.197
+sg7.hostip.me 45.76.180.105
+id1.hostip.me 103.227.252.187
+it.hostip.me 94.177.213.103
+jp.hostip.me 45.76.52.183 
+us.hostip.me 45.76.11.97 
+fr.hostip.me 45.63.115.145
+de.hostip.me 139.59.213.97
+gb.hostip.me 46.101.1.161
+gb.hostip.me 178.62.226.45
+in.hostip.me 139.59.72.208
+sggs1.hostip.me 49.213.16.128
+sggs2.hostip.me 49.213.16.128
+sggs5.hostip.me 49.213.16.12
+sggs4.hostip.me 49.213.16.128
+47.74.135.72
+172.21.47.153
+128.199.169.0 (proxysg)
+138.197.155.186 (proxycanada)
+128.199.71.82
+139.59.122.250
