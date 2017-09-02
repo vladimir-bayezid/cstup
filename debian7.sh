@@ -118,7 +118,7 @@ rm /etc/nginx/sites-enabled/default
 rm /etc/nginx/sites-available/default
 wget -O /etc/nginx/nginx.conf "https://raw.githubusercontent.com/elhad/cstup/master/nginx.conf"
 mkdir -p /home/vps/public_html
-echo "<pre>Setup by Ibnu Fachrizal</pre>" > /home/vps/public_html/index.html
+echo "<pre>Setup By VozoV</pre>" > /home/vps/public_html/index.html
 echo "<?php phpinfo(); ?>" > /home/vps/public_html/info.php
 wget -O /etc/nginx/conf.d/vps.conf "https://raw.githubusercontent.com/elhad/cstup/master/vps.conf"
 sed -i 's/listen = \/var\/run\/php5-fpm.sock/listen = 127.0.0.1:9000/g' /etc/php5/fpm/pool.d/www.conf
