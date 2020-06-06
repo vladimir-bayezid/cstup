@@ -9,7 +9,7 @@ SGGS
 
 INDONESIA
 103.227.255.160             (INDONESIA - Rizky Aditya)
-
+52.252.104.254
 sg1.hostip.me 128.199.154.140
 sg2.hostip.me 128.199.179.90
 sg3.hostip.me 139.59.102.248
